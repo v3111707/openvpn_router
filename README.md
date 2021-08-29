@@ -2,7 +2,7 @@
 
 ```bash
 opkg update
-opkg install python3-light
+opkg install python3-light, python3-pip
 opkg install git-http
 opkg install openvpn-openssl openvpn-easy-rsa luci-i18n-openvpn-en rsync
 cd /etc/openvpn/

@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+nl_nordvpn.auth
+routes
+
+
+.DS_Store
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
